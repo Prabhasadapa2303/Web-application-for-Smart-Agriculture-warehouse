@@ -141,9 +141,9 @@ $link_to_edit = 'http://localhost/se/edit.php';
                 <i class="fa fa-pen fa-xs edit"></i>
                 <div class="contact-card">
                     <img src="my pic.jpg" alt="Profile Picture" class="avatar">
-                    <h2>Praveen Chowdary Vemasani</h2>
-                    <p><i class="fas fa-envelope"></i> praveenvemasani7@email.com</p>
-                    <p><i class="fas fa-phone"></i>+91 7013830377</p>
+                    <h2>Adapa Venkata Prabhas</h2>
+                    <p><i class="fas fa-envelope"></i> adapavenkataprabhas@gmail.com</p>
+                    <p><i class="fas fa-phone"></i>+91 8121942003</p>
                     <p><i class="fas fa-map-marker-alt"></i> 123 Main St, Anytown, USA</p>
                 </div>
             </div>
